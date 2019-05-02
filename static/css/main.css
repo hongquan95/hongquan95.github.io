@@ -1,9 +1,9 @@
 body {
-  font-family: "Roboto", "Roboto Condensed", Arial, sans-serif;
+  font-family: "Proxima Nova Soft", "Helvetica Neue", sans-serif;
   background: url("/static/img/subtle_dots.png");
-  line-height: 1.5em;
-  font-weight: 300;
-  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  font-size: 20px;
   color: #666;
 }
 hr {
@@ -64,6 +64,13 @@ div.content pre {
   font-family: 'Fira Code', Menlo, Monaco, Consolas, 'Courier New', monospace;
   font-size: 12px;
   border: none;
+}
+code {
+  font-size: 15px!important;
+  font-family: Fira Code;
+  line-height: 1.75;
+  font-weight: 400;
+  white-space: pre!important;
 }
 div.content .highlight {
 	background: #333333;
