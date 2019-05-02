@@ -1,11 +1,11 @@
 title: Stack Problems
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+author: Tran Hong Quan
+github: https://github.com/hongquan9
+about: Da Nang, VN, 2019.
 disqus_shortname: stackproblems
-google_analytics: UA-XXXXXXXX-Y
-avatar_url: /static/img/avatar.jpg
+# google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.png
 
 enableTags: true
 tagarray: []
@@ -17,29 +17,23 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "#"
-    - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "http://facebook.com/100003224411093"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/hongquan95"
 
 share:
   twitter_username: github.io
   fb_appid: 1749788565247320
 
 urls:
-    - text: About Me
-      url: /about/
-    - text: My Projects
-      url: /projects/
+    # - text: About Me
+    #   url: /about/
+    # - text: My Projects
+    #   url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://hongquan95.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
