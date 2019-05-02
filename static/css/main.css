@@ -86,6 +86,7 @@ footer {
   font-size: 11px;
   bottom: 0;
   padding-bottom: 10px;
+  text-align: right;
 }
 
 /* Left column */
@@ -102,15 +103,17 @@ div.col-sm-3 strong {
 div.col-sm-3 div.profile-about {
   margin-top: 10px;
   color: #8C8C8C;
+  text-align: center;
+  font-size: 13px;
 }
 div.col-sm-3 img.profile-avatar {
-  border-radius: 150px;
-  -webkit-border-radius: 150px;
-  -moz-border-radius: 150px;
-  -ms-border-radius: 150px;
-  -o-border-radius: 150px;
+  position: relative;
+  width: 150px!important;
+  height: 150px!important;
+  border-radius: 5px;
   margin-left: auto;
   margin-right: auto;
+  left: 15px;
 }
 
 /* Pagination */
@@ -137,6 +140,7 @@ div.col-sm-3 img.profile-avatar {
 .social{
   display: block;
   margin: 10px 0;
+  text-align: center;
 }
 .social ul {
   list-style-type: none;
@@ -176,4 +180,8 @@ div.col-sm-3 img.profile-avatar {
   div.col-sm-3 {
     margin-top: 30px;
   }
+}
+
+#home ol{
+  font-size: 15px;
 }
