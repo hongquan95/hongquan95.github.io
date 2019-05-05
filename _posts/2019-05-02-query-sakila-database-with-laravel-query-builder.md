@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Query Sakila Database with Laravel Query Builder"
-date:   2019-05-02 24:00:00 +0700
-categories: [Laravel, Database]
+date:   2019-05-02 22:00:00 +0700
+categories: [laravel, database]
 ---
 
 Document:

@@ -67,7 +67,7 @@ div.content pre {
 }
 code {
   font-size: 15px!important;
-  font-family: Fira Code;
+  font-family: 'Fira Code', Courier;
   line-height: 1.75;
   font-weight: 400;
   white-space: pre!important;
